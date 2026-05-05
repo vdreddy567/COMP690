@@ -1,0 +1,12 @@
+datasets
+transformers
+evaluate
+accelerate
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+tensorflow==2.15.0
+torch
+joblib
